@@ -1,4 +1,4 @@
-Welcome to the 8-Week-SQL challenges!
+# Welcome to the 8-Week-SQL challenges!
 
 ## Case Study #1 - Danny's Diner
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" width=50% height=50%>
